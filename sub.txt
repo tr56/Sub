@@ -1,1 +1,1 @@
-
+vless://f2fb3bba-69b1-4842-9344-1ad611a80df2@5.199.172.70:8443?security=reality&sni=www.amd.com&fp=chrome&pbk=NnDloDdLzhLM1CVF36kbOkc0JFzsqVaT3k1fYX_vXRY&sid=cb00e5461c0bdd87&type=xhttp&path=/api/v2/sync&mode=auto&packetEncoding=xudp&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20(MadVPN)
