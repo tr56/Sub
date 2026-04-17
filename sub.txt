@@ -1,1 +1,1 @@
-vless://f2fb3bba-69b1-4842-9344-1ad611a80df2@94.183.233.38:8443?security=reality&sni=www.ups.com&fp=chrome&pbk=vlr8yVb-r0LM0zYDU8Ye3WWVRURoW_LEDyrrstNHYXw&sid=6e3b5a9d7c1f8240&type=xhttp&path=/api/v2/stream/events&mode=auto&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20(MadVPN)
+vless://f2fb3bba-69b1-4842-9344-1ad611a80df2@84.32.209.56:8443?type=xhttp&security=reality&pbk=NnDloDdLzhLM1CVF36kbOkc0JFzsqVaT3k1fYX_vXRY&fp=chrome&sni=www.tradingview.com&sid=f2400dd2a8da9847&path=%2Fapi%2Fv2%2Fsync#Lithuania
