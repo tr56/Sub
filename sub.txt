@@ -1,1 +1,1 @@
-vless://f2fb3bba-69b1-4842-9344-1ad611a80df2@84.32.209.56:8443?type=xhttp&security=reality&pbk=NnDloDdLzhLM1CVF36kbOkc0JFzsqVaT3k1fYX_vXRY&fp=chrome&sni=www.tradingview.com&sid=f2400dd2a8da9847&path=%2Fapi%2Fv2%2Fsync#Lithuania
+vless://f2fb3bba-69b1-4842-9344-1ad611a80df2@5.199.172.70:8443?security=reality&sni=www.tradingview.com&fp=chrome&pbk=NnDloDdLzhLM1CVF36kbOkc0JFzsqVaT3k1fYX_vXRY&sid=f5792b5e2346fc50&type=xhttp&path=/api/v2/sync&mode=auto&packetEncoding=xudp&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20(MadVPN)
