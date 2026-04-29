@@ -1,1 +1,1 @@
-vless://f2fb3bba-69b1-4842-9344-1ad611a80df2@5.199.172.70:8443?security=reality&sni=www.tradingview.com&fp=chrome&pbk=NnDloDdLzhLM1CVF36kbOkc0JFzsqVaT3k1fYX_vXRY&sid=f5792b5e2346fc50&type=xhttp&path=/api/v2/sync&mode=auto&packetEncoding=xudp&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20(MadVPN)
+trojan://5t143zx2NzKRAjgqo6Ksy16V0-L0cj7g@fr.nnmm.me:443?security=tls&sni=fr.nnmm.me&alpn=h2,http/1.1&fp=qq&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
